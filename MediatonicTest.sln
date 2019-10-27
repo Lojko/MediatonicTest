@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatonicTest", "MediatonicTest.csproj", "{29BD24ED-055D-4D82-BAA7-4CA29C92E4FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestMediatonicTest", "..\XUnitTestMediatonicTest\XUnitTestMediatonicTest.csproj", "{57EB52C9-8A06-40CE-A771-A32933973706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29BD24ED-055D-4D82-BAA7-4CA29C92E4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BD24ED-055D-4D82-BAA7-4CA29C92E4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BD24ED-055D-4D82-BAA7-4CA29C92E4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BD24ED-055D-4D82-BAA7-4CA29C92E4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57EB52C9-8A06-40CE-A771-A32933973706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EB52C9-8A06-40CE-A771-A32933973706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EB52C9-8A06-40CE-A771-A32933973706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EB52C9-8A06-40CE-A771-A32933973706}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02745E68-D49A-4781-88E1-6C11B636FFE4}
+	EndGlobalSection
+EndGlobal
